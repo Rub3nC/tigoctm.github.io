@@ -38,12 +38,7 @@
   </url>
   
   <url>
-    <loc>http://tigoctm.com/header/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/informationA/</loc>
+    <loc>http://tigoctm.com/how_it_works/</loc>
     <lastmod>2016-07-09T19:40:19+00:00</lastmod>
   </url>
   
@@ -53,7 +48,12 @@
   </url>
   
   <url>
-    <loc>http://tigoctm.com/how_it_works/</loc>
+    <loc>http://tigoctm.com/header/</loc>
+    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://tigoctm.com/informationA/</loc>
     <lastmod>2016-07-09T19:40:19+00:00</lastmod>
   </url>
   
@@ -68,17 +68,17 @@
   </url>
   
   <url>
+    <loc>http://tigoctm.com/cta1/</loc>
+    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://tigoctm.com/cta2/</loc>
     <lastmod>2016-07-08T19:40:19+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://tigoctm.com/future_money/</loc>
-    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/cta1/</loc>
     <lastmod>2016-07-08T19:40:19+00:00</lastmod>
   </url>
   
