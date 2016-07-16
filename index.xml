@@ -173,7 +173,7 @@
         &lt;/div&gt;
         &lt;div class=&#34;u-column u-column--hd12&#34;&gt;
           &lt;div class=&#34;theme-form-control&#34;&gt;
-            &lt;button class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Send&lt;/button&gt;
+            &lt;button class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Request More Information&lt;/button&gt;
           &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
@@ -316,20 +316,6 @@
     </item>
     
     <item>
-      <title>CTA1</title>
-      <link>http://tigoctm.com/cta1/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
-      
-      <guid>http://tigoctm.com/cta1/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
-
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CTA2</title>
       <link>http://tigoctm.com/cta2/</link>
       <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
@@ -356,6 +342,20 @@
  Cryptocurrency will create the next round of multibillionaires in this new economy.
  
 You can secure your place in the ground floor of an opportunity that is past the risky “maybe” stage, but not fully integrated into the general population. Imagine a nearly automatic residual income stream coming in month after month. All with a “money machine” that takes up less than 4 square feet of space.
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CTA1</title>
+      <link>http://tigoctm.com/cta1/</link>
+      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://tigoctm.com/cta1/</guid>
+      <description>&lt;div class=&#34;Information-info&#34;&gt;
+## For more information about this once in a lifetime opportunity, fill out the form below
+
+&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
 &lt;/div&gt;
 </description>
     </item>
