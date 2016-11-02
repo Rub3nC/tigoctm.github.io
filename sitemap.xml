@@ -1,115 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>http://tigoctm.com/</loc>
-    <lastmod>2016-07-15T12:00:33-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/braga_desc/</loc>
-    <lastmod>2016-07-15T12:00:33-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/santo_desc/</loc>
-    <lastmod>2016-07-15T12:00:26-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/douro_desc/</loc>
-    <lastmod>2016-07-15T10:58:55-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/business_opportunity/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/business_opportunity2/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/contact/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/header/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/how_it_works/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/informationB/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/informationA/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/informationB2/</loc>
-    <lastmod>2016-07-09T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/bios/</loc>
-    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/cta1/</loc>
-    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/cta2/</loc>
-    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/future_money/</loc>
-    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/parallax/</loc>
-    <lastmod>2016-07-08T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/benefits/</loc>
-    <lastmod>2016-07-07T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/informationC/</loc>
-    <lastmod>2016-07-07T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/</loc>
-    <lastmod>2016-06-12T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/informationD/</loc>
-    <lastmod>2016-06-12T19:40:19+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://tigoctm.com/new_machine/</loc>
-    <lastmod>2016-06-12T19:40:19+00:00</lastmod>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://tigoctm.com/en/sitemap.xml</loc>
+		
+	   	<lastmod>2016-10-26T19:40:19+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://tigoctm.com/es/sitemap.xml</loc>
+		
+	   	<lastmod>2016-10-26T19:40:19+00:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

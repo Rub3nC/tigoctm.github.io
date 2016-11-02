@@ -2,12 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TigoCTM</title>
-    <link>http://tigoctm.com/</link>
+    <link>http://tigoctm.com/index.xml</link>
     <description>Recent content on TigoCTM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 15 Jul 2016 12:00:33 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2016 19:40:19 +0000</lastBuildDate>
     <atom:link href="http://tigoctm.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fill out the form below for More Information</title>
+      <link>http://tigoctm.com/more_info/</link>
+      <pubDate>Wed, 26 Oct 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://tigoctm.com/more_info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Get More Information Now</title>
+      <link>http://tigoctm.com/more_info_now/</link>
+      <pubDate>Wed, 26 Oct 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://tigoctm.com/more_info_now/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>braga_desc</title>
@@ -17,11 +35,11 @@
       <guid>http://tigoctm.com/braga_desc/</guid>
       <description>
 
-&lt;h1 id=&#34;braga:24167d9897fbc31f53078e35da96e971&#34;&gt;Braga&lt;/h1&gt;
+&lt;h1 id=&#34;braga&#34;&gt;Braga&lt;/h1&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;lamassu-s-http-lamassu-is-attractive-and-slim-floor-stand:24167d9897fbc31f53078e35da96e971&#34;&gt;&lt;a href=&#34;http://lamassu.is&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; attractive and slim floor stand.&lt;/h3&gt;
+&lt;h3 id=&#34;lamassu-s-http-lamassu-is-attractive-and-slim-floor-stand&#34;&gt;&lt;a href=&#34;http://lamassu.is&#34; target=&#34;_blank&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; attractive and slim floor stand.&lt;/h3&gt;
 
 &lt;hr /&gt;
 
@@ -41,21 +59,19 @@
       <guid>http://tigoctm.com/santo_desc/</guid>
       <description>
 
-&lt;h1 id=&#34;santo-tirso:5bb5f11f8c4f7327fd501e698fcdb8b5&#34;&gt;Santo Tirso&lt;/h1&gt;
+&lt;h1 id=&#34;santo-tirso&#34;&gt;Santo Tirso&lt;/h1&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;lamassu-s-http-lamassu-is-savvy-and-robust-cash-dispensing-floor-stand:5bb5f11f8c4f7327fd501e698fcdb8b5&#34;&gt;&lt;a href=&#34;http://lamassu.is&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; savvy and robust cash dispensing floor stand.&lt;/h3&gt;
+&lt;h3 id=&#34;lamassu-s-http-lamassu-is-savvy-and-robust-cash-dispensing-floor-stand&#34;&gt;&lt;a href=&#34;http://lamassu.is&#34; target=&#34;_blank&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; savvy and robust cash dispensing floor stand.&lt;/h3&gt;
 
 &lt;hr /&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;The Santo Tirso was designed to &lt;strong&gt;enable swift cash out transactions&lt;/strong&gt; when attached to &lt;a href=&#34;http://lamassu.is&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; Douro model. The concept is incredibly simple, we planted a fierce &lt;strong&gt;three-note-per-second dispenser&lt;/strong&gt; in a handsome and secure floor stand.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;It is a &lt;strong&gt;modular design&lt;/strong&gt; that can be added on at any point to any Lamassu Bitcoin machine ever sold. This gives operators the flexibility to start with cash to Bitcoin only and upgrade when they see fit.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Manufactured by skilled craftsmen in Northern Portugal.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;Building on the success of the Douro, the upgraded Santo Tirso adds the ability to&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;both buy and sell cryptocurrency back into cash&lt;/strong&gt; for the smoothest transactions available in the market.&lt;/p&gt;
 </description>
     </item>
     
@@ -67,68 +83,31 @@
       <guid>http://tigoctm.com/douro_desc/</guid>
       <description>
 
-&lt;h1 id=&#34;douro:23c1641ad37fb0df1c46e0a4f16a42a5&#34;&gt;Douro&lt;/h1&gt;
+&lt;h1 id=&#34;douro&#34;&gt;Douro&lt;/h1&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&#34;the-best-dressed-and-most-advanced-bitcoin-atm-yet:23c1641ad37fb0df1c46e0a4f16a42a5&#34;&gt;The best dressed and most advanced Bitcoin ATM yet.&lt;/h3&gt;
+&lt;h3 id=&#34;the-newest-model-of-lamassu-s-http-lamassu-is-original-cash-to-bitcoin-machine&#34;&gt;The newest model of &lt;a href=&#34;http://lamassu.is&#34; target=&#34;_blank&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; original cash-to-Bitcoin machine.&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;The one that started it all.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;the-first-bitcoin-atm-to-hit-the-market&#34;&gt;The first Bitcoin ATM to hit the market.&lt;/h4&gt;
 
 &lt;hr /&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://lamassu.is&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; Bitcoin machine remains the best of its class, providing unparalleled user experience and speed.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;&lt;strong&gt;Unique in the world of fiat-to-cryptocurrency machines,&lt;/strong&gt;&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;The Douro is the newest model of &lt;a href=&#34;http://lamassu.is&#34;&gt;Lamassu&amp;rsquo;s&lt;/a&gt; original cash to Bitcoin machine, which was &lt;strong&gt;the first Bitcoin ATM&lt;/strong&gt; to hit the market. The new Douro is also now the &lt;strong&gt;fastest&lt;/strong&gt; and &lt;strong&gt;most user friendly&lt;/strong&gt; Bitcoin ATM to date.&lt;/p&gt;&lt;/li&gt;
+&lt;p&gt;the Douro is a compact, attractive, and durable way&lt;/p&gt;
 
-&lt;li&gt;&lt;p&gt;Manufactured by skilled craftsmen in Northern Portugal.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;to quickly and reliably &lt;strong&gt;buy cryptocurrency.&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The Business Opportunity</title>
-      <link>http://tigoctm.com/business_opportunity/</link>
+      <title>Buy a TigoCTM Machine</title>
+      <link>http://tigoctm.com/path1/</link>
       <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
-      <guid>http://tigoctm.com/business_opportunity/</guid>
-      <description>
-
-&lt;h3 id=&#34;the-problem:bb6cf48c4e1268cd6dcf7c9f302d867c&#34;&gt;The Problem&lt;/h3&gt;
-
-&lt;p&gt;Bitcoin and Cryptocurrency are growing an a phenomenal rate. In fact, experts expect the industry will see over 1 billion dollars in investment during 2016. Amazon, Paypal, Ferrari, and many other international firms now accept Bitcoin. What seemed the domain of tech geeks and fringe freedom seekers, its now moving into the mainstream.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately purchasing Cryptocurrency like Bitcoin or Dash privately and conveniently is difficult, and often impossible. Moving crypto back into fiat cash is worse.&lt;/p&gt;
-
-&lt;p&gt;It requires complex, expensive, and highly scrutinized wire transfers, tons of paperwork, and more.&lt;/p&gt;
-
-&lt;p&gt;Even when possible through bank and wire transfers, using banks eliminates privacy, destroying one of the main reasons cryptocurrency popularity is growing.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cryptocurrency Teller Machines (CTMs)&lt;/strong&gt; help customers overcome these problems. But until TigoCTM entered the market, CTM owners have struggled due to technical issues, lack of connections in the field, and misunderstandings of the Cryptocurrency world.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Business Opportunity B</title>
-      <link>http://tigoctm.com/business_opportunity2/</link>
-      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
-      
-      <guid>http://tigoctm.com/business_opportunity2/</guid>
-      <description>
-
-&lt;h3 id=&#34;tigoctm-s-solution:76508f452e91c63d67aab904f3cff6ff&#34;&gt;TigoCTM&amp;rsquo;s Solution&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;TigoCTM Cryptocurrency Teller Machines (CTM’s)&lt;/strong&gt; eliminate these issues by making Bitcoin and Cryptocurrency transactions as simple as using your bank&amp;rsquo;s ATM.&lt;/p&gt;
-
-&lt;p&gt;And now for the first time, business owners like you can get in on the ground floor of this amazing all cash, residual income, cutting edge opportunity by owning your own crypto money machine in an industry virtually free from competition. Even if you have no experience or technical skills.&lt;/p&gt;
-
-&lt;p&gt;The way it works is, your customers put their fiat cash into your machine and the system automatically converts that cash into Bitcoin or other Cryptocurrency. You’ll keep a significant fee for providing this convenience.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, clients pay you in Cryptocurrency, and you hand them back fiat currency. You profit in either direction.&lt;/p&gt;
-
-&lt;p&gt;TigoCTM has removed the technical hurdles, built an amazing network within the industry, and has deep knowledge of Bitcoin and Cryptocurrency. And with the TIGO opportunity, you get a back door into this once in a lifetime opportunity.&lt;/p&gt;
-</description>
+      <guid>http://tigoctm.com/path1/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -155,11 +134,7 @@
     &lt;input type=&#39;text&#39; style=&#39;display:none;&#39; name=&#39;returnURL&#39; value=&#39;http&amp;#x3a;&amp;#x2f;&amp;#x2f;tigoctm.com&#39; /&gt; 
      &lt;!-- Do not remove this code. --&gt;
 
-    &lt;div class=&#34;Information-info&#34;&gt;
-        &lt;p&gt;Please fill out the form for more information.&lt;/p&gt;
-    &lt;/div&gt;
-
-&lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
+  &lt;div class=&#34;form-row&#34;&gt;
     &lt;label for=&#34;firstname&#34;&gt;Name
       &lt;span class=&#34;form-error&#34; id=&#34;error-name&#34;&gt;Please specify your name&lt;/span&gt;
     &lt;/label&gt;
@@ -171,7 +146,7 @@
       &lt;input type=&#34;text&#34; maxlength=&#34;80&#34; name=&#34;Last Name&#34; id=&#34;lastname&#34;
           placeholder=&#34;Last&#34;&gt;
     &lt;/div&gt;
-  &lt;/div&gt;&lt;/p&gt;
+  &lt;/div&gt;
 
 &lt;p&gt;&lt;div class=&#34;form-row&#34;&gt;
     &lt;input type=&#34;text&#34; maxlength=&#34;100&#34; name=&#34;Email&#34; id=&#34;email&#34;
@@ -213,7 +188,7 @@
 
 &lt;p&gt;&lt;script&gt;
     var fields = [&amp;lsquo;firstname&amp;rsquo;, &amp;lsquo;lastname&amp;rsquo;, &amp;lsquo;email&amp;rsquo;, &amp;lsquo;message&amp;rsquo;, &amp;lsquo;city&amp;rsquo;, &amp;lsquo;country&amp;rsquo;];
-    var basicEmail = /&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:3c4864f00d23f7ea35511ec930ce1d9c:-&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:3c4864f00d23f7ea35511ec930ce1d9c:-&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;+@([^ @]+){2,}.([^ @]+){2,}$/;&lt;/p&gt;
+    var basicEmail = /^[^ @]+@([^ @]+){2,}.([^ @]+){2,}$/;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;function checkMandatory() {
   /* Hide any errors. */
@@ -252,14 +227,26 @@
 &lt;p&gt;&lt;/script&gt;
 &lt;form&gt;
 &lt;/div&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Existing and Growing Demand</title>
+      <link>http://tigoctm.com/informationB/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
+      
+      <guid>http://tigoctm.com/informationB/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;These machines are &lt;strong&gt;already in demand&lt;/strong&gt;, and Bitcoin users are screaming for more machines in more locations. There aren’t enough machines to fill the demand.&lt;/p&gt;&lt;/li&gt;
 
-&lt;hr /&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;How much demand?&lt;/strong&gt; In the few cities these machines are found (not many), transactions range from $20,000 to $300,000 / month.&lt;/p&gt;&lt;/li&gt;
 
-&lt;ol&gt;
-&lt;li id=&#34;fn:3c4864f00d23f7ea35511ec930ce1d9c:-&#34;&gt;^ @ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:3c4864f00d23f7ea35511ec930ce1d9c:-&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
+&lt;li&gt;&lt;p&gt;You keep the percentage you choose. &lt;strong&gt;From 5% - 20%.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Your job is simply to find a location to place these high demand machines and pick up your profits.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;It’s as &lt;strong&gt;easy as a vending machine&lt;/strong&gt;, except with vending machines, your profits rely on high traffic.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
@@ -271,11 +258,11 @@
       <guid>http://tigoctm.com/header/</guid>
       <description>
 
-&lt;h1 id=&#34;get-in-on-the-ground-floor-of-the-exploding-bitcoin-dash-and-cryptocurrency-market-with-no-technical-knowledge-or-experience:af893786e80fb00641ba3d6c2156f19e&#34;&gt;Get in on the Ground Floor of the Exploding Bitcoin, Dash, and Cryptocurrency Market with no Technical Knowledge or Experience&lt;/h1&gt;
+&lt;h1 id=&#34;get-in-on-the-ground-floor-of-the-exploding-bitcoin-dash-and-cryptocurrency-market-with-no-technical-knowledge-or-experience&#34;&gt;Get in on the Ground Floor of the Exploding Bitcoin, Dash, and Cryptocurrency Market with no Technical Knowledge or Experience&lt;/h1&gt;
 
 &lt;hr /&gt;
 
-&lt;h4 id=&#34;recover-your-investment-in-3-9-months-and-explode-your-roi-starting-immediately-cryptocurrency-teller-machines-ctms-are-generating-20-000-300-000-in-transactions-per-month-but-are-still-missing-from-most-prime-locations:af893786e80fb00641ba3d6c2156f19e&#34;&gt;Recover Your Investment in 3 - 9 months and Explode your ROI Starting Immediately. Cryptocurrency Teller Machines (CTMs) are Generating $20,000 - $300,000 in Transactions per month, But are Still Missing from Most Prime Locations&lt;/h4&gt;
+&lt;h4 id=&#34;recover-your-investment-in-3-9-months-and-explode-your-roi-starting-immediately-cryptocurrency-teller-machines-ctms-are-generating-20-000-300-000-in-transactions-per-month-but-are-still-missing-from-most-prime-locations&#34;&gt;Recover Your Investment in 3 - 9 months and Explode your ROI Starting Immediately. Cryptocurrency Teller Machines (CTMs) are Generating $20,000 - $300,000 in Transactions per month, But are Still Missing from Most Prime Locations&lt;/h4&gt;
 </description>
     </item>
     
@@ -321,26 +308,6 @@
     </item>
     
     <item>
-      <title>Information B</title>
-      <link>http://tigoctm.com/informationB/</link>
-      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
-      
-      <guid>http://tigoctm.com/informationB/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;These machines are &lt;strong&gt;already in demand&lt;/strong&gt;, and Bitcoin users are screaming for more machines in more locations. There aren’t enough machines to fill the demand.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;How much demand?&lt;/strong&gt; In the few cities these machines are found (not many), transactions range from $20,000 to $300,000 / month.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You keep the percentage you choose. &lt;strong&gt;From 5% - 20%.&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Your job is simply to find a location to place these high demand machines and pick up your profits.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;It’s as &lt;strong&gt;easy as a vending machine&lt;/strong&gt;, except with vending machines, your profits rely on high traffic.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Information A</title>
       <link>http://tigoctm.com/informationA/</link>
       <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
@@ -348,7 +315,7 @@
       <guid>http://tigoctm.com/informationA/</guid>
       <description>
 
-&lt;h2 id=&#34;this-cutting-edge-international-explosive-business-opportunity-could-be-yours-for-far-less-than-you-imagine:67c08833cc54faff86fb8d2b6ca6744b&#34;&gt;This Cutting Edge, International, Explosive Business Opportunity Could be Yours for Far Less than You Imagine&lt;/h2&gt;
+&lt;h2 id=&#34;this-cutting-edge-international-explosive-business-opportunity-could-be-yours-for-far-less-than-you-imagine&#34;&gt;This Cutting Edge, International, Explosive Business Opportunity Could be Yours for Far Less than You Imagine&lt;/h2&gt;
 
 &lt;hr /&gt;
 
@@ -381,60 +348,55 @@
     </item>
     
     <item>
-      <title>Bios</title>
-      <link>http://tigoctm.com/bios/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
+      <title>More Info</title>
+      <link>http://tigoctm.com/more_info2/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
-      <guid>http://tigoctm.com/bios/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## Get a no cost, risk, no obligation information from Bitcoin and Cryptocurrency Experts
- INSERT BIOS AND OTHER INFORMATION
-&lt;/div&gt;
-</description>
+      <guid>http://tigoctm.com/more_info2/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>CTA1</title>
-      <link>http://tigoctm.com/cta1/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
+      <title>The Business Opportunity</title>
+      <link>http://tigoctm.com/business_opportunity/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
-      <guid>http://tigoctm.com/cta1/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
+      <guid>http://tigoctm.com/business_opportunity/</guid>
+      <description>
 
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
-&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CTA2</title>
-      <link>http://tigoctm.com/cta2/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
-      
-      <guid>http://tigoctm.com/cta2/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-## For more information about this once in a lifetime opportunity, fill out the form below
+&lt;h3 id=&#34;the-problem&#34;&gt;The Problem&lt;/h3&gt;
 
-&lt;a href=&#34;#&#34; class=&#34;u-btn u-btn-x-large theme-btn-primary&#34;&gt;Fill out the form below for More Information&lt;/a&gt;
-&lt;/div&gt;
+&lt;p&gt;Bitcoin and Cryptocurrency are growing an a phenomenal rate. In fact, experts expect the industry will see over 1 billion dollars in investment during 2016. Amazon, Paypal, Ferrari, and many other international firms now accept Bitcoin. What seemed the domain of tech geeks and fringe freedom seekers, its now moving into the mainstream.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately purchasing Cryptocurrency like Bitcoin or Dash privately and conveniently is difficult, and often impossible. Moving crypto back into fiat cash is worse.&lt;/p&gt;
+
+&lt;p&gt;It requires complex, expensive, and highly scrutinized wire transfers, tons of paperwork, and more.&lt;/p&gt;
+
+&lt;p&gt;Even when possible through bank and wire transfers, using banks eliminates privacy, destroying one of the main reasons cryptocurrency popularity is growing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cryptocurrency Teller Machines (CTMs)&lt;/strong&gt; help customers overcome these problems. But until TigoCTM entered the market, CTM owners have struggled due to technical issues, lack of connections in the field, and misunderstandings of the Cryptocurrency world.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The Future of Money</title>
-      <link>http://tigoctm.com/future_money/</link>
-      <pubDate>Fri, 08 Jul 2016 19:40:19 +0000</pubDate>
+      <title>The Business Opportunity B</title>
+      <link>http://tigoctm.com/business_opportunity2/</link>
+      <pubDate>Sat, 09 Jul 2016 19:40:19 +0000</pubDate>
       
-      <guid>http://tigoctm.com/future_money/</guid>
-      <description>&lt;div class=&#34;Information-info&#34;&gt;
-##   The Future of Money
- Bitcoin and Cryptocurrencies like Dash are the future of money. Over one billion dollars of investment is expected during 2016, so they are well past the startup stage. But they haven’t even scratched the surface of the mainstream market yet.
- 
- Cryptocurrency will create the next round of multibillionaires in this new economy.
- 
-You can secure your place in the ground floor of an opportunity that is past the risky “maybe” stage, but not fully integrated into the general population. Imagine a nearly automatic residual income stream coming in month after month. All with a “money machine” that takes up less than 4 square feet of space.
-&lt;/div&gt;
+      <guid>http://tigoctm.com/business_opportunity2/</guid>
+      <description>
+
+&lt;h3 id=&#34;tigoctm-s-solution&#34;&gt;TigoCTM&amp;rsquo;s Solution&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;TigoCTM Cryptocurrency Teller Machines (CTM’s)&lt;/strong&gt; eliminate these issues by making Bitcoin and Cryptocurrency transactions as simple as using your bank&amp;rsquo;s ATM.&lt;/p&gt;
+
+&lt;p&gt;And now for the first time, business owners like you can get in on the ground floor of this amazing all cash, residual income, cutting edge opportunity by owning your own crypto money machine in an industry virtually free from competition. Even if you have no experience or technical skills.&lt;/p&gt;
+
+&lt;p&gt;The way it works is, your customers put their fiat cash into your machine and the system automatically converts that cash into Bitcoin or other Cryptocurrency. You’ll keep a significant fee for providing this convenience.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, clients pay you in Cryptocurrency, and you hand them back fiat currency. You profit in either direction.&lt;/p&gt;
+
+&lt;p&gt;TigoCTM has removed the technical hurdles, built an amazing network within the industry, and has deep knowledge of Bitcoin and Cryptocurrency. And with the TIGO opportunity, you get a back door into this once in a lifetime opportunity.&lt;/p&gt;
 </description>
     </item>
     
